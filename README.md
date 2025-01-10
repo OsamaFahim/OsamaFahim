@@ -41,7 +41,7 @@ I'm a passionate developer and competitive programmer with a knack for solving c
 ## 📊 **GitHub Stats**
 
 ![Osama's GitHub stats](https://github-readme-stats.vercel.app/api?username=OsamaFahim&show_icons=true&theme=radical&count_private=true&random=123456) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OsamaFahim&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OsamaFahim&layout=compact&theme=radical&random=123456)
 
 ---
 

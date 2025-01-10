@@ -53,7 +53,7 @@ I'm a passionate developer and competitive programmer with a knack for solving c
 
 ---
 
-## 💡 **Fun Fact**
+## 💡 **Fun Fact** 
 
 When I'm not solving algorithmic challenges or working on cutting-edge tech, you'll find me binge-watching tech documentaries or experimenting with open-source projects!
 

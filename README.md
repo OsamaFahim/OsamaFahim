@@ -47,7 +47,7 @@ I'm a passionate developer and competitive programmer with a knack for solving c
 
 ## 🔗 **Connect with Me**
 
-- 📧 Email: osamafahim654@gmail.com  
+- 📧 Email: `osamafahim654@gmail.com`  
 - 💼 LinkedIn: [linkedin.com/in/Muhammad_Osama_Fahim](https://www.linkedin.com/in/muhammad-osama-fahim-537286283/)  
 - ⚡ Codeforces: [codeforces.com/profile/Muhammad_Osama_Fahim](https://codeforces.com/profile/Muhammad_Osama_Fahim)
 

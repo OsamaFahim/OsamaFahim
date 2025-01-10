@@ -13,7 +13,7 @@ I'm a passionate developer and competitive programmer with a knack for solving c
 - 👨‍💻 **Competitive Programming:** Actively participating on [Codeforces](https://codeforces.com/profile/Muhammad_Osama_Fahim).  
 - 🎯 **Goals for 2025:**  
   - Master Kubernetes and Terraform.  
-  - Achieve an Expert rating on Codeforces.  
+  - Achieve an Expert rating on Codeforces.   
 
 ---
 

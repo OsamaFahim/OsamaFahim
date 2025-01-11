@@ -65,8 +65,8 @@ Here are some of my recent projects and repositories:
 - **[Neurons as Threads and Propogation through forked Processes (C++)](https://github.com/OsamaFahim/Neurons_as_Parallelized_Threads)**  
   This project implements a basic neural network using process-based parallelism, forward and backward pass is handled by forking new processes.
   
-- **[DevOps Automation Pipeline (C++)](https://github.com/OsamaFahim/devops-pipeline-automation)**  
-  A complete CI/CD pipeline for automating deployment and integration processes.
+- **[HTML Parser using C++ (C++)](https://github.com/OsamaFahim/HTML_parser_using_Cpp)**  
+  This project processes the HTML tags using Stack Data structure and the tags implemented and a little complex than normal HTML function Tags each having a unique and interesting functionality.
   
 ## 📂 **Check out my remaining projects:**
 You can explore more of my repositories and projects [here](https://github.com/OsamaFahim?tab=repositories).

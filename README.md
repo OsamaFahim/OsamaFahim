@@ -69,7 +69,6 @@ Here are some of my recent projects and repositories:
   A complete CI/CD pipeline for automating deployment and integration processes.
   
 ## 📂 **Check out my remaining projects:**
-
 You can explore more of my repositories and projects [here](https://github.com/OsamaFahim?tab=repositories).
 ---
 

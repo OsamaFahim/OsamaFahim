@@ -52,6 +52,23 @@ I'm a passionate developer and competitive programmer with a knack for solving c
 
 ---
 
+---
+## 🏗️ **My Projects**
+
+Here are some of my recent projects and repositories:
+- **[Skin Lesion Detection and Analysis Using Image Processing](https://github.com/OsamaFahim/Skin_Lesion_Detection_and_Analysis_Using_Image_Processing)**  
+  A project focused on image processing and machine learning techniques for skin lesion detection.
+
+- **[Microservices Blogging Platform](https://github.com/OsamaFahim/microservices-blogging-platform)**  
+  A scalable blogging platform based on a microservices architecture using Docker and Flask.
+
+- **[Plant Species Detection Using Leaves](https://github.com/OsamaFahim/plant-species-detection)**  
+  A deep learning project for plant species detection from leaf images.
+
+- **[DevOps Automation Pipeline](https://github.com/OsamaFahim/devops-pipeline-automation)**  
+  A complete CI/CD pipeline for automating deployment and integration processes.
+---
+
 ## 💡 **Fun Fact** 
 
 When I'm not solving algorithmic challenges or working on cutting-edge tech, you'll find me binge-watching tech documentaries or experimenting with open-source projects!

@@ -66,7 +66,7 @@ Here are some of my recent projects and repositories:
   This project implements a basic neural network using process-based parallelism, forward and backward pass is handled by forking new processes.
   
 - **[HTML Parser using C++ (C++)](https://github.com/OsamaFahim/HTML_parser_using_Cpp)**  
-  This project processes the HTML tags using Stack Data structure and the tags implemented and a little complex than normal HTML function Tags each having a unique and interesting functionality.
+  This project processes the HTML tags using Stack Data structure and the tags implemented are a little complex than normal HTML function Tags each having a unique and interesting functionality.
   
 ## 📂 **Check out my remaining projects:**
 You can explore more of my repositories and projects [here](https://github.com/OsamaFahim?tab=repositories).

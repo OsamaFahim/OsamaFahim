@@ -56,16 +56,16 @@ I'm a passionate developer and competitive programmer with a knack for solving c
 ## 🏗️ **My Projects**
 
 Here are some of my recent projects and repositories:
-- **[Competitive Programming](https://github.com/OsamaFahim/CompetitiveProgramming)**  
+- **[Competitive Programming (C++)](https://github.com/OsamaFahim/CompetitiveProgramming)**  
   A repository containing multiple contest's solutions and random solves problems on Codeforces
   
-- **[Skin Lesion Detection and Analysis Using Image Processing](https://github.com/OsamaFahim/Skin_Lesion_Detection_and_Analysis_Using_Image_Processing)**  
+- **[Skin Lesion Detection and Analysis Using Image Processing (C++)](https://github.com/OsamaFahim/Skin_Lesion_Detection_and_Analysis_Using_Image_Processing)**  
   A project focused on image processing and machine learning techniques for skin lesion detection.
 
-- **[Neurons as Threads and Propogation through forked Processes](https://github.com/OsamaFahim/Neurons_as_Parallelized_Threads)**  
+- **[Neurons as Threads and Propogation through forked Processes (C++)](https://github.com/OsamaFahim/Neurons_as_Parallelized_Threads)**  
   This project implements a basic neural network using process-based parallelism, forward and backward pass is handled by forking new processes.
   
-- **[DevOps Automation Pipeline](https://github.com/OsamaFahim/devops-pipeline-automation)**  
+- **[DevOps Automation Pipeline (C++)](https://github.com/OsamaFahim/devops-pipeline-automation)**  
   A complete CI/CD pipeline for automating deployment and integration processes.
   
 ## 📂 **Check out my remaining projects:**
